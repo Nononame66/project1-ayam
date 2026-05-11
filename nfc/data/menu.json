@@ -1,0 +1,72 @@
+{
+    "menu": [
+        {
+            "kategori": "minuman",
+            "nama": "air mineral",
+            "deskripsi": "segar",
+            "harga": 8000,
+            "gambar": "aqua.png"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "coca-cola",
+            "deskripsi": "segar manis",
+            "harga": 11.364,
+            "gambar": "coca-cola.png"
+        },
+        {
+            "kategori": "dessert",
+            "nama": "sundae",
+            "deskripsi": "manis",
+            "harga": 5000,
+            "gambar": "sundae coklat.png"
+        },
+        {
+            "kategori": "makanan",
+            "nama": "nasi",
+            "deskripsi": "enak",
+            "harga": 9000,
+            "gambar": "nasi.png"
+        },
+        {
+            "kategori": "makanan",
+            "nama":  "kentang goreng",
+            "deskripsi": "renyah",
+            "harga": 19.000,
+            "gambar": "kentang goreng.png"
+        },
+        {
+
+            "kategori": "makanan",
+            "nama":  "paket personal",
+            "deskripsi": "renyah & gurih",
+            "harga":  20.000,
+            "gambar": "paket personal.png"
+
+        },
+        {
+            "kategori": "makanan",
+            "nama": "paket kenyang",
+            "deskripsi": "kenyang & renyah",
+            "harga": 45.500,
+            "gambar": "paket kenyang.png"
+        },
+        {
+            "kategori": "makanan",
+            "nama":  "paha atas",
+            "deskripsi": "renyah",
+            "harga": 19.500,
+            "gambar": "paha atas.png"
+        },
+        {
+
+            "kategori": "makanan",
+            "nama":  "paha bawah",
+            "deskripsi": "renyah",
+            "harga": 19.500,
+            "gambar": "paha bawah.png"
+
+        }
+
+    ]
+}
